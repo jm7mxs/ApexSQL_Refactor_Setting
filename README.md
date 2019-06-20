@@ -1,0 +1,2 @@
+# ApexSQL_Refactor_Setting
+ApexSQL Refactorのフォーマットルール
